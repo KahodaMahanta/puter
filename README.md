@@ -1,33 +1,3 @@
-<h3 align="center"><img width="80" alt="Puter.com, The Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time." src="https://assets.puter.site/puter-logo.png"></h3>
-
-<h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable.</h3>
-
-<p align="center">
-    <a href="https://puter.com/"><strong>« LIVE DEMO »</strong></a>
-    <br />
-    <br />
-    <a href="https://puter.com">Puter.com</a>
-    ·
-    <a href="https://docs.puter.com" target="_blank">SDK</a>
-    ·
-    <a href="https://discord.com/invite/PQcx7Teh8u">Discord</a>
-    ·
-    <a href="https://reddit.com/r/puter">Reddit</a>
-    ·
-    <a href="https://twitter.com/HeyPuter">X (Twitter)</a>
-    ·
-    <a href="https://hackerone.com/puter_h1b">Bug Bounty</a>
-</p>
-
-<p align="center">
-    <a href="https://news.ycombinator.com/item?id=39597030"><img style="width: 200px;" alt="#1 on Hacker News" src="https://hackernews-badge.vercel.app/api?id=39597030" /></a>
-    <a href="https://news.ycombinator.com/item?id=33838179"><img style="width: 200px;" alt="#1 on Hacker News" src="https://hackernews-badge.vercel.app/api?id=33838179" /></a>
-</p>
-
-<h3 align="center"><img width="700" style="border-radius:5px;" alt="screenshot" src="https://assets.puter.site/puter.com-screenshot-2.webp"></h3>
-
-<br/>
-
 ## Puter
 
 Puter is an advanced, open-source internet operating system designed to be feature-rich, exceptionally fast, and highly extensible. It can be used to build remote desktop environments or serve as an interface for cloud storage services, remote servers, web hosting platforms, and more.
